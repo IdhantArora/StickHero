@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8DC63F;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:70px;}
+	.st4{fill:#FFF200;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:#F1F2F2;}
+	.st7{font-size:30px;}
+	.st8{fill:url(#SVGID_00000013909856011947690850000003735695125929603759_);}
+	.st9{fill:#ED1C24;}
+	.st10{fill:#ED1C24;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="st0" cx="144" cy="140" r="132"/>
+	<rect x="70.5" y="114" class="st1" width="147" height="52"/>
+	<text transform="matrix(1 0 0 1 70.5 163.6992)" class="st2 st3">PLA</text>
+</g>
+<circle class="st4" cx="438.5" cy="139" r="132"/>
+<rect x="365" y="113" class="st1" width="147" height="52"/>
+<text transform="matrix(1 0 0 1 365 162.6992)" class="st2 st3">PLA</text>
+<g>
+	<radialGradient id="SVGID_1_" cx="221.1753" cy="601.3696" r="106" fx="116.7038" fy="583.4333" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.1321" style="stop-color:#000000;stop-opacity:0.822"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0.6512"/>
+	</radialGradient>
+	<path class="st5" d="M302.18,647.37H136.99c-12.15,0-22-9.85-22-22v-46.5c0-12.15,9.85-22,22-22h165.18c12.15,0,22,9.85,22,22v46.5
+		C324.18,637.52,314.33,647.37,302.18,647.37z"/>
+	<rect x="150.68" y="589.87" class="st1" width="153" height="30"/>
+	<text transform="matrix(1 0 0 1 150.6753 611.1694)" class="st6 st2 st7">NEW GAME</text>
+</g>
+<g>
+	
+		<radialGradient id="SVGID_00000140706194930360177590000006886902144608702094_" cx="221.7656" cy="739.8696" r="106" fx="117.2942" fy="721.9333" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.1321" style="stop-color:#000000;stop-opacity:0.822"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0.6512"/>
+	</radialGradient>
+	<path style="fill:url(#SVGID_00000140706194930360177590000006886902144608702094_);" d="M302.77,785.87H137.58
+		c-12.15,0-22-9.85-22-22v-46.5c0-12.15,9.85-22,22-22h165.18c12.15,0,22,9.85,22,22v46.5
+		C324.77,776.02,314.92,785.87,302.77,785.87z"/>
+	<rect x="136.72" y="730.37" class="st1" width="172.91" height="27"/>
+	<text transform="matrix(1 0 0 1 136.7205 751.6694)" class="st6 st2 st7">SAVED GAME</text>
+</g>
+<path class="st9" d="M584.16,647.37H418.98c-12.15,0-22-9.85-22-22v-46.5c0-12.15,9.85-22,22-22h165.18c12.15,0,22,9.85,22,22v46.5
+	C606.16,637.52,596.31,647.37,584.16,647.37z"/>
+<rect x="432.66" y="589.87" class="st1" width="153" height="30"/>
+<text transform="matrix(1 0 0 1 432.6572 611.1694)" class="st2 st7">NEW GAME</text>
+<path class="st9" d="M569.86,785.87H404.68c-12.15,0-22-9.85-22-22v-46.5c0-12.15,9.85-22,22-22h165.18c12.15,0,22,9.85,22,22v46.5
+	C591.86,776.02,582.01,785.87,569.86,785.87z"/>
+<rect x="403.81" y="730.37" class="st1" width="172.91" height="27"/>
+<text transform="matrix(1 0 0 1 403.8108 751.6694)" class="st2 st7">SAVED GAME</text>
+<circle class="st10" cx="292.57" cy="414.43" r="132"/>
+<rect x="219.07" y="388.43" class="st1" width="147" height="52"/>
+<text transform="matrix(1 0 0 1 219.0728 438.134)" class="st2 st3">PLA</text>
+</svg>
